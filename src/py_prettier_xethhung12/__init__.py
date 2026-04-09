@@ -1,0 +1,1 @@
+from py_prettier_xethhung12._module_prettier import format_text
